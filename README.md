@@ -43,10 +43,6 @@ jupyter notebook bitcoin_spiral_graph.ipynb
 
 Run all cells. The final cell renders the full animation inline in the notebook.
 
-## Original
-
-Inspired by my original 2023 post: [twitter.com/fudruster](https://x.com/fudruster/status/1672839343675789312)
-
 ## Tech Stack
 
 - Python 3, Jupyter Notebook
