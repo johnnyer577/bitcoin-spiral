@@ -2,8 +2,7 @@
 
 An animated visualization of Bitcoin's price history mapped to block height, displayed as a polar spiral alongside a traditional linear chart.
 
-<!-- Replace the line below with your actual GIF once exported -->
-<!-- ![Bitcoin Spiral Animation](bitcoin_spiral.gif) -->
+![Bitcoin Spiral Animation](bitcoin_spiral.gif)
 
 ## What This Shows
 
@@ -31,7 +30,7 @@ Both charts draw simultaneously, day by day, from Bitcoin's genesis block in Jan
 
 ```bash
 # Clone the repo
-git clone https://github.com/fudruster/bitcoin-spiral.git
+git clone https://github.com/johnnyer577/bitcoin-spiral.git
 cd bitcoin-spiral
 
 # Install dependencies
