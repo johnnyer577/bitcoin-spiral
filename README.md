@@ -45,6 +45,7 @@ Run all cells. The final cell renders the full animation inline in the notebook.
 ## Tech Stack
 
 - Python 3, Jupyter Notebook
-- `pandas` — data loading
+- `pandas` + `SQLAlchemy` — data loading
 - `matplotlib` — polar + linear charts, `FuncAnimation`
-- Data: CoinGecko (prices) + Blockchain.info (block heights)
+- `PostgreSQL` — database backend (6,484 rows in `btc_daily` table)
+- Data: CoinGecko (prices) + Blockchain.info / mempool.space (block heights)
